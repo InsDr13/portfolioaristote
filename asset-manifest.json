@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3036ea43.css",
+    "main.js": "/static/js/main.f60de413.js",
+    "static/media/pexelsA2.jpg": "/static/media/pexelsA2.471c81213c57fd03b526.jpg",
+    "static/media/pexelsC1.jpg": "/static/media/pexelsC1.a112e00a63e47a44a77b.jpg",
+    "static/media/pexelsA1.jpg": "/static/media/pexelsA1.b7cccfa7e50116e88434.jpg",
+    "static/media/pexelsB2.jpg": "/static/media/pexelsB2.56c34303f83d5aa97954.jpg",
+    "static/media/pexelsC3.jpg": "/static/media/pexelsC3.081bdeb6bfdddf410934.jpg",
+    "static/media/pexelsC2.jpg": "/static/media/pexelsC2.89786aca96eade270438.jpg",
+    "static/media/pexelsB1.jpg": "/static/media/pexelsB1.85b404fe6b712aa23ebf.jpg",
+    "static/media/pexelsA3.jpg": "/static/media/pexelsA3.d06328a72fd9e37864f0.jpg",
+    "static/media/pexelsB3.jpg": "/static/media/pexelsB3.a282f1a39851266351f5.jpg",
+    "static/media/lLogo.png": "/static/media/lLogo.e3e060674e50e171f800.png",
+    "static/media/planZ2.jpg": "/static/media/planZ2.685264af5b62b49e075e.jpg",
+    "static/media/planZ4.jpg": "/static/media/planZ4.3432832b969257ffcb9b.jpg",
+    "static/media/aristote.png": "/static/media/aristote.cff62d1de333e3d5809e.png",
+    "static/media/bannerImg.png": "/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/planZ.jpg": "/static/media/planZ.d4851e4e71f154982d32.jpg",
+    "static/media/projectThree.jpeg": "/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "static/media/planZ3.jpeg": "/static/media/planZ3.32fe36ffd38c7813c1ad.jpeg",
+    "static/media/planZ1.jpeg": "/static/media/planZ1.a371d8d7db82e073dbb2.jpeg",
+    "index.html": "/index.html",
+    "main.3036ea43.css.map": "/static/css/main.3036ea43.css.map",
+    "main.f60de413.js.map": "/static/js/main.f60de413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3036ea43.css",
+    "static/js/main.f60de413.js"
+  ]
+}
